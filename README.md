@@ -4,7 +4,7 @@
 研究室では主にAIと画像処理に関する研究を行っています。
 
 - 現在運用中のウェブサイト: [https://www.cc.miyazaki-u.ac.jp/imagelab/home.php](https://www.cc.miyazaki-u.ac.jp/imagelab/home.php)
-- リニューアル版リポジトリ: [https://github.com/nishimoto265/univ_homepage](https://github.com/nishimoto265/univ_homepage)
+- リニューアル版リポジトリ: [https://github.com/nishimoto265/LabHM_new](https://github.com/nishimoto265/LabHM_new)
 
 ## プロジェクト構造 (一部)
 
