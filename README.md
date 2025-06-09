@@ -126,4 +126,4 @@ LabHM_old/
 
 ---
 
-> **Note**: これは旧バージョンのウェブサイトです。最新版は [LabHM_new](https://github.com/nishimoto265/LabHM_new) をご確認ください。 
+> **Note**: これは旧バージョンのウェブサイトです。最新版は [LabHM_new](https://github.com/nishimoto265/LabHM_new) をご確認ください。
