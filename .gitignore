@@ -1,0 +1,128 @@
+# =======================
+# 機密情報・開発用ファイル
+# =======================
+
+# PHP設定・機密情報
+phpinfo.php
+config.php
+.env
+.env.local
+.env.production
+.env.development
+
+# データベース設定
+database.php
+db_config.php
+connection.php
+
+# 認証情報
+auth.php
+credentials.php
+keys/
+secrets/
+
+# =======================
+# システム・エディタファイル
+# =======================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# エディタ・IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+*.tmp
+
+# =======================
+# PHP・Web開発関連
+# =======================
+
+# Composer
+vendor/
+composer.lock
+composer.phar
+
+# PHPログ・キャッシュ
+*.log
+logs/
+cache/
+temp/
+tmp/
+
+# Session files
+sessions/
+*.session
+
+# =======================
+# 画像・メディアファイル
+# =======================
+
+# 一時的な画像ファイル
+*.tmp
+*.temp
+
+# 大きすぎる画像ファイル（5MB以上）
+# assets/images/IMG_0441.JPG
+# assets/images/facility3.jpg
+# assets/images/sakura2025s1.jpg
+# assets/images/sakura_2015.JPG
+# assets/images/sakura_2018.JPG
+
+# PDFファイル（機密の可能性）
+*.pdf
+
+# =======================
+# バックアップ・その他
+# =======================
+
+# バックアップファイル
+*.bak
+*.backup
+*.old
+*_backup.*
+backup/
+backups/
+
+# アーカイブファイル
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+
+# =======================
+# Node.js関連（将来的に使用する可能性）
+# =======================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# =======================
+# Git関連
+# =======================
+
+# Gitの設定は除外しない（.gitignore, .gitattributesは含める） 
